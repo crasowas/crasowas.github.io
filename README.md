@@ -18,4 +18,4 @@
 
 * [crasowas@gmail.com](mailto:crasowas@gmail.com)
 
-<link rel="stylesheet" type="text/css" href="./styles.css?v=20220828.1">
+<link rel="stylesheet" type="text/css" href="./styles.css?v=20220828.2">
